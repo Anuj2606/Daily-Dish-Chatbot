@@ -100,7 +100,7 @@ st.write(
     """
 )
 
-faq_pdf_path = "The_Daily_Dish_FAQ.pdf"
+faq_pdf_path = "The-Daily-Dish-FAQ.pdf"
 
 reader = PdfReader(faq_pdf_path)
 
